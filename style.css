@@ -170,15 +170,6 @@ a {
     padding-bottom: 20px;
 }
 
-.contactbutton {
-    background-color: #ff8906;
-    padding: 20px;
-}
-
-.contactbutton:hover {
-    background-color: rgb(255, 81, 0);
-}
-
 footer {
     color: #f5f5f6;
     display: flex;
@@ -188,4 +179,20 @@ footer {
 
 footer > h3 {
     padding-top: 20px;
+}
+
+.contact-button {
+    background-color: #ff8906;
+    color: #f5f5f6;
+    border: 2px solid rgb(255, 81, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+.contact-button:hover{
+    background-color: rgb(255, 81, 0);
 }
