@@ -1,1 +1,1 @@
-# DumbWebsite
+# just a website made for fun

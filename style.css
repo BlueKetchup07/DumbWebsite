@@ -175,6 +175,10 @@ a {
     padding: 20px;
 }
 
+.contactbutton:hover {
+    background-color: #a35a05;
+}
+
 footer {
     color: #f5f5f6;
     display: flex;
