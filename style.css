@@ -1,7 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0 auto;
-    background: #0f0e17;
+    background: #16161a;
 }
 
 .zone {
@@ -103,7 +103,7 @@ a {
 }
 
 .container {
-    background-color: #0f0e17;
+    background-color: #16161a;
     display: flex;
     height: fit-content;
     width: 100%;
@@ -111,12 +111,12 @@ a {
 }
 
 .whitecontainer {
-    background: #fffffe;
+    background: #242629;
     width: auto;
 }
 
 .box {
-    background-color: #0f0e17;
+    background-color: #16161a;
     padding-top: 40px;
     padding-bottom: 40px;
     padding-left: 40px;
@@ -139,7 +139,7 @@ a {
 }
 
 .box:hover{
-    background: #2e2f3e;
+    background: #575766;
 }
 
 .our-team {
@@ -162,11 +162,11 @@ a {
 }
 
 .contact > h1{
-    color: #0f0e17;
+    color: #fffffe;
 }
 
 .contact > p {
-    color: #2e2f3e;
+    color: #a7a9be;
     padding-bottom: 20px;
 }
 
@@ -182,9 +182,9 @@ footer > h3 {
 }
 
 .contact-button {
-    background-color: #ff8906;
+    background-color: #7f5af0;
     color: #f5f5f6;
-    border: 2px solid rgb(255, 81, 0);
+    border: 2px solid #402d79;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -194,5 +194,5 @@ footer > h3 {
 }
 
 .contact-button:hover{
-    background-color: rgb(255, 81, 0);
+    background-color: #402d79;
 }
